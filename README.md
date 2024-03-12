@@ -1,4 +1,4 @@
-# Data-Warehouse-Server
+# Learning-Golang
 
 Este es el repositorio para aprender el lenguaje de programacion Golang, y contiene algunos ejercicios que permiten recordar diferentes conceptos como:
 * Tipos de variables
